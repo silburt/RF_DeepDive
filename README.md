@@ -5,3 +5,5 @@ This repository contains a presentation for a 1 hour lecture given to the NYC In
 - Mechanics of how a tree is built (gini impurity).
 - Regularization
 - Strenghts and Weaknesses of CART algorithms.
+
+The slides are made deliberately verbose so that an interested user can still learn the material without having heard my presentation. 
